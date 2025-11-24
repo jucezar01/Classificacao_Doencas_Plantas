@@ -1,0 +1,8 @@
+# Ignorar dataset
+plant_village_dataset/
+
+# Ignorar modelos treinados
+*.h5
+
+# Ignorar ambiente virtual
+.venv/
